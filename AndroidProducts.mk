@@ -16,8 +16,7 @@
 
 PRODUCT_MAKEFILES += \
     device/essential/mata/potato_mata.mk
-COMMON_LUNCH_CHOICES := \
-    potato_mata-userdebug
+
 
 
 
