@@ -20,7 +20,7 @@ TARGET_RECOVERY_FSTAB := device/essential/mata/rootdir/etc/fstab.mata
 
 # Device identifiers
 PRODUCT_DEVICE := mata
-PRODUCT_NAME := statix_mata
+PRODUCT_NAME := potato_mata
 PRODUCT_BRAND := essential
 PRODUCT_MODEL := PH-1
 PRODUCT_MANUFACTURER := Essential Products
