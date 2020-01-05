@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+#Fix for 32-bit-app-only product
+TARGET_SUPPORTS_64_BIT_APPS := true
+
 # Board
 PRODUCT_USES_QCOM_HARDWARE := true
 PRODUCT_BOARD_PLATFORM := msm8998
